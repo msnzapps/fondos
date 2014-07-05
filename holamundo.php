@@ -1,0 +1,1 @@
+<?php echo json_encode( array( "culo"=>"http://estaticos03.telva.com/albumes/2012/12/21/mejores_fotos_kelly_brook/135608265429_extras_albumes_0.jpg") ); ?>
